@@ -32,4 +32,18 @@ header > span {
 main {
     padding: 100px 0;
 }
+.single-faq {
+    padding: 40px 0;
+}
+.question {
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+.answer {
+    font-size: 18px;
+    padding: 15px 0;
+}
+.font24 {
+    font-size: 24px;
+}
 /* FOOTER */
